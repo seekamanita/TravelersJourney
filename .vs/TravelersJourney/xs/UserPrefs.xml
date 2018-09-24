@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5FD4AB35-B950-492E-8730-5FFD259AC1DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelersJourney/Program.cs">
+    <Files>
+      <File FileName="TravelersJourney/Program.cs" Line="24" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 5.16.0.151 (5e81afa90df)" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TravelersJourney PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
